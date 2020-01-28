@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Morgan McCarley](mailto:morgan.mccarley@owasp.org)
+* [Nichole Dugan](mailto:nichole.dugan@owasp.org)
