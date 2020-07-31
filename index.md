@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Des Moines
 tags: example-tag
 region: North America
+meetup-group: OWASP-Des-Moines-Chapter
+country: USA
+postal-code: 50301
 
 ---
 
